@@ -18,6 +18,10 @@ body {
   background-attachment: fixed;
 }
 
+div .pi-inner h2 {
+  padding: 10px 0 20px;
+}
+
 a img:hover{
   opacity:0.8;
   -moz-opacity:0.8;
