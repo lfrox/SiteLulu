@@ -18,6 +18,18 @@ body {
   background-attachment: fixed;
 }
 
+div h5 a:hover {
+  color: black;
+}
+
+nav ul li a:hover {
+  color: #979797
+}
+
+div a img{
+  filter:drop-shadow(0px 0px 5px rgba(163, 163, 163, 0.7))
+}
+
 div .pi-inner h2 {
   padding: 10px 0 20px;
 }
@@ -81,7 +93,7 @@ ol {
 }
 
 .pt100 {
-  padding-top: 20px;
+  padding: 20px 8px 0 8px;
 }
 
 .set-bg {
