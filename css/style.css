@@ -35,9 +35,9 @@ div .pi-inner h2 {
 }
 
 a img:hover{
-  opacity:0.8;
-  -moz-opacity:0.8;
-  -webkit-opacity:0.8;
+  transform: translateY(-5px);
+    transition: .8s;
+    filter:drop-shadow(3px 3px 8px rgba(163, 163, 163, 0.7));
 }
 
 h1,
