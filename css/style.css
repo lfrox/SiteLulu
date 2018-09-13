@@ -18,6 +18,10 @@ body {
   background-attachment: fixed;
 }
 
+.sobre {
+  text-align: justify;
+}
+
 div h5 a:hover {
   color: black;
 }
