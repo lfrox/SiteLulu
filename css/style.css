@@ -18,6 +18,21 @@ body {
   background-attachment: fixed;
 }
 
+.top { 
+  padding-bottom: 50px;
+}
+
+.portfolio-filter{
+  line-height: 1.5rem;
+}
+
+.p-md-5 {
+  padding-top: 1.5rem;
+  padding-right: 3rem;
+  padding-left: 3rem;
+  padding-bottom: 1.5rem;
+}
+
 h5 {
   font-size: 1rem;
 }
@@ -110,7 +125,7 @@ ol {
 }
 
 .section-title {
-  font-size: 60px;
+  font-size: 40px;
 }
 
 .section-title span {
@@ -506,7 +521,7 @@ ol {
 }
 
 .portfolio-meta {
-  padding-bottom: 45px;
+  padding-bottom: 35px;
 }
 
 .portfolio-meta h2 {
@@ -544,7 +559,7 @@ ol {
     Footer Section
 --------------------------*/
 .footer-section {
-  padding: 50px 0;
+  padding: 0 0 50px;
 }
 
 .footer-section .copyright {
@@ -553,7 +568,7 @@ ol {
 }
 
 .social-links {
-  margin-top: 60px;
+  margin-top: 40px;
   margin-bottom: 40px;
 }
 
@@ -651,7 +666,6 @@ ol {
 --------------------------*/
 .contect-tect {
   text-align: center;
-  margin-bottom: 70px;
 }
 
 .contect-tect h2 {
